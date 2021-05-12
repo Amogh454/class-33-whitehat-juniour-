@@ -1,0 +1,8 @@
+typos error:
+    variables and function names mispelled 
+
+ incorrect use of function:
+    due to declaration of the function, inbuilt function should not be called in draw function.
+
+ using variables outside the scope:
+    check the declaration of variables whether local or global 
